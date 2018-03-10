@@ -4,7 +4,9 @@ public class a{
 	}
 }
 class b{
+ static {
 
+ }
 }
 class c{
 }
